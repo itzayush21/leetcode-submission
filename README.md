@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/itzayush21/leetcode-submission/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/itzayush21/leetcode-submission/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/itzayush21/leetcode-submission/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/itzayush21/leetcode-submission/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/itzayush21/leetcode-submission/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/itzayush21/leetcode-submission/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/itzayush21/leetcode-submission/tree/master/0078-subsets) |
@@ -76,5 +77,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/itzayush21/leetcode-submission/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/itzayush21/leetcode-submission/tree/master/0066-plus-one) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/itzayush21/leetcode-submission/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
