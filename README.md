@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/itzayush21/leetcode-submission/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/itzayush21/leetcode-submission/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/itzayush21/leetcode-submission/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/itzayush21/leetcode-submission/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/itzayush21/leetcode-submission/tree/master/2846-robot-collisions) |
 ## Two Pointers
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/itzayush21/leetcode-submission/tree/master/0726-number-of-atoms) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/itzayush21/leetcode-submission/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1272-invalid-transactions](https://github.com/itzayush21/leetcode-submission/tree/master/1272-invalid-transactions) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/itzayush21/leetcode-submission/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Backtracking
 |  |
 | ------- |
@@ -153,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/itzayush21/leetcode-submission/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/itzayush21/leetcode-submission/tree/master/2306-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/itzayush21/leetcode-submission/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
