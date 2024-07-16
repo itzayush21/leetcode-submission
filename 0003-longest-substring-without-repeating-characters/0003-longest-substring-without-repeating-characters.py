@@ -4,18 +4,15 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        if len(s) == 1:
-            return 1
-        l=0
-        store,res=0,[]
-        while len(s[l:])>store:
-            res=[]
-            for i in range(l,len(s)):
-                if s[i] not in res:
-                    res.append(s[i])
-                else:
-                    l+=1
-                    break
-            store=max(store,len(res))
-        return store
+        chars = set()
+        l, res = 0, 0
+            
+        for r in range(len(s)):
+            while s[r] in chars:
+                chars.remove(s[l])
+                l += 1
+            chars.add(s[r])
+            res = max(res, r - l + 1)
+        
+        return res
         
