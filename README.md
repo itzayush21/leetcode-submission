@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/itzayush21/leetcode-submission/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/itzayush21/leetcode-submission/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/itzayush21/leetcode-submission/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/itzayush21/leetcode-submission/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/itzayush21/leetcode-submission/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/itzayush21/leetcode-submission/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/itzayush21/leetcode-submission/tree/master/0066-plus-one) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/itzayush21/leetcode-submission/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/itzayush21/leetcode-submission/tree/master/0056-merge-intervals) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0726-number-of-atoms](https://github.com/itzayush21/leetcode-submission/tree/master/0726-number-of-atoms) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/itzayush21/leetcode-submission/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/itzayush21/leetcode-submission/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/itzayush21/leetcode-submission/tree/master/0049-group-anagrams) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0726-number-of-atoms](https://github.com/itzayush21/leetcode-submission/tree/master/0726-number-of-atoms) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/itzayush21/leetcode-submission/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/itzayush21/leetcode-submission/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/itzayush21/leetcode-submission/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/itzayush21/leetcode-submission/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/itzayush21/leetcode-submission/tree/master/0079-word-search) |
 | [0415-add-strings](https://github.com/itzayush21/leetcode-submission/tree/master/0415-add-strings) |
 | [0680-valid-palindrome-ii](https://github.com/itzayush21/leetcode-submission/tree/master/0680-valid-palindrome-ii) |
