@@ -12,7 +12,9 @@ class Solution(object):
             for j in i:
                 res+=str(mapping[int(j)])
             d.append((int(i),int(res)))
-        result = [j for j, k in sorted(d, key=lambda x: x[1])]
-
+        sorted_list=sorted(d, key=lambda x: x[1])
+        result=[]
+        for j,k in sorted_list:
+            result.append(j)
         print(result)
         return result
