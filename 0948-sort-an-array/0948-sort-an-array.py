@@ -1,28 +1,43 @@
 class Solution:
   def sortArray(self, nums: List[int]) -> List[int]:
-    def heapSort(A: List[int]) -> None:
-      def maxHeapify(A: List[int], i: int, heapSize: int) -> None:
-        l = 2 * i + 1
-        r = 2 * i + 2
-        largest = i
-        if l < heapSize and A[largest] < A[l]:
-          largest = l
-        if r < heapSize and A[largest] < A[r]:
-          largest = r
-        if largest != i:
-          A[largest], A[i] = A[i], A[largest]
-          maxHeapify(A, largest, heapSize)
+    def mergeSort(A: List[int], l: int, r: int) -> None:
+      if l >= r:
+        return
 
-      def buildMaxHeap(A: List[int]) -> None:
-        for i in range(len(A) // 2, -1, -1):
-          maxHeapify(A, i, len(A))
+      def merge(A: List[int], l: int, m: int, r: int) -> None:
+        sorted = [0] * (r - l + 1)
+        k = 0  # sorted's index
+        i = l  # left's index
+        j = m + 1  # right's index
 
-      buildMaxHeap(A)
-      heapSize = len(A)
-      for i in reversed(range(1, len(A))):
-        A[i], A[0] = A[0], A[i]
-        heapSize -= 1
-        maxHeapify(A, 0, heapSize)
+        while i <= m and j <= r:
+          if A[i] < A[j]:
+            sorted[k] = A[i]
+            k += 1
+            i += 1
+          else:
+            sorted[k] = A[j]
+            k += 1
+            j += 1
 
-    heapSort(nums)
+        # Put the possible remaining left part into the sorted array.
+        while i <= m:
+          sorted[k] = A[i]
+          k += 1
+          i += 1
+
+        # Put the possible remaining right part into the sorted array.
+        while j <= r:
+          sorted[k] = A[j]
+          k += 1
+          j += 1
+
+        A[l:l + len(sorted)] = sorted
+
+      m = (l + r) // 2
+      mergeSort(A, l, m)
+      mergeSort(A, m + 1, r)
+      merge(A, l, m, r)
+
+    mergeSort(nums, 0, len(nums) - 1)
     return nums
