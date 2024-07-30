@@ -4,16 +4,13 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        a_count=0
-        for i in range(len(s)):
-            a_count+=1 if s[i]=="a" else 0
-        b_count=0
-        res=len(s)
-        for i,c in enumerate(s):
-            if c=="a":
-                a_count-=1
-            res=min(res,b_count+a_count)
-            if c == "b":
-                b_count+=1
-            
-        return res
+        n = len(s)
+        f = [0] * (n + 1)
+        b = 0
+        for i, c in enumerate(s, 1):
+            if c == 'b':
+                f[i] = f[i - 1]
+                b += 1
+            else:
+                f[i] = min(f[i - 1] + 1, b)
+        return f[n]
