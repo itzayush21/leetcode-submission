@@ -4,14 +4,15 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        a_count=[0]*len(s)
-        for i in range(len(s)-2,-1,-1):
-            a_count[i]=a_count[i+1]
-            a_count[i]+=1 if s[i+1]=="a" else 0
+        a_count=0
+        for i in range(len(s)):
+            a_count+=1 if s[i]=="a" else 0
         b_count=0
         res=len(s)
         for i,c in enumerate(s):
-            res=min(res,b_count+a_count[i])
+            if c=="a":
+                a_count-=1
+            res=min(res,b_count+a_count)
             if c == "b":
                 b_count+=1
             
