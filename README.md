@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0948-sort-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0948-sort-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/itzayush21/leetcode-submission/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1196-filling-bookcase-shelves](https://github.com/itzayush21/leetcode-submission/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/itzayush21/leetcode-submission/tree/master/1207-delete-nodes-and-return-forest) |
 | [1272-invalid-transactions](https://github.com/itzayush21/leetcode-submission/tree/master/1272-invalid-transactions) |
 | [1333-sort-the-jumbled-numbers](https://github.com/itzayush21/leetcode-submission/tree/master/1333-sort-the-jumbled-numbers) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/itzayush21/leetcode-submission/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/itzayush21/leetcode-submission/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/itzayush21/leetcode-submission/tree/master/0045-jump-game-ii) |
+| [1196-filling-bookcase-shelves](https://github.com/itzayush21/leetcode-submission/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/itzayush21/leetcode-submission/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/itzayush21/leetcode-submission/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/itzayush21/leetcode-submission/tree/master/1756-minimum-deletions-to-make-string-balanced) |
