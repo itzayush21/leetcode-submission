@@ -4,7 +4,7 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        chars = set()
+         chars = set()
         l, res = 0, 0
             
         for r in range(len(s)):
