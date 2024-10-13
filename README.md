@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/itzayush21/leetcode-submission/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/itzayush21/leetcode-submission/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/itzayush21/leetcode-submission/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/itzayush21/leetcode-submission/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/itzayush21/leetcode-submission/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/itzayush21/leetcode-submission/tree/master/0151-reverse-words-in-a-string) |
 | [0227-basic-calculator-ii](https://github.com/itzayush21/leetcode-submission/tree/master/0227-basic-calculator-ii) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/itzayush21/leetcode-submission/tree/master/0071-simplify-path) |
 | [0227-basic-calculator-ii](https://github.com/itzayush21/leetcode-submission/tree/master/0227-basic-calculator-ii) |
 | [0726-number-of-atoms](https://github.com/itzayush21/leetcode-submission/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/itzayush21/leetcode-submission/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
