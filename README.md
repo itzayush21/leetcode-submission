@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/itzayush21/leetcode-submission/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/itzayush21/leetcode-submission/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/itzayush21/leetcode-submission/tree/master/2502-sort-the-people) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/itzayush21/leetcode-submission/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2846-robot-collisions](https://github.com/itzayush21/leetcode-submission/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/itzayush21/leetcode-submission/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Two Pointers
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/itzayush21/leetcode-submission/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/itzayush21/leetcode-submission/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/itzayush21/leetcode-submission/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/itzayush21/leetcode-submission/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0948-sort-an-array) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/itzayush21/leetcode-submission/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Merge Sort
 |  |
 | ------- |
