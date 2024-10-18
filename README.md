@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/itzayush21/leetcode-submission/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/itzayush21/leetcode-submission/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/itzayush21/leetcode-submission/tree/master/0053-maximum-subarray) |
+| [1086-divisor-game](https://github.com/itzayush21/leetcode-submission/tree/master/1086-divisor-game) |
 | [1196-filling-bookcase-shelves](https://github.com/itzayush21/leetcode-submission/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/itzayush21/leetcode-submission/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/itzayush21/leetcode-submission/tree/master/1511-count-number-of-teams) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/itzayush21/leetcode-submission/tree/master/0066-plus-one) |
 | [0227-basic-calculator-ii](https://github.com/itzayush21/leetcode-submission/tree/master/0227-basic-calculator-ii) |
 | [0415-add-strings](https://github.com/itzayush21/leetcode-submission/tree/master/0415-add-strings) |
+| [1086-divisor-game](https://github.com/itzayush21/leetcode-submission/tree/master/1086-divisor-game) |
 | [1642-water-bottles](https://github.com/itzayush21/leetcode-submission/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/itzayush21/leetcode-submission/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Matrix
@@ -296,4 +298,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/itzayush21/leetcode-submission/tree/master/1511-count-number-of-teams) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/itzayush21/leetcode-submission/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/itzayush21/leetcode-submission/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
