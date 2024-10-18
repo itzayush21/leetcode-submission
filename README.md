@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/itzayush21/leetcode-submission/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/itzayush21/leetcode-submission/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/itzayush21/leetcode-submission/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/itzayush21/leetcode-submission/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/itzayush21/leetcode-submission/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/itzayush21/leetcode-submission/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/itzayush21/leetcode-submission/tree/master/0066-plus-one) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/itzayush21/leetcode-submission/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/itzayush21/leetcode-submission/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/itzayush21/leetcode-submission/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/itzayush21/leetcode-submission/tree/master/0053-maximum-subarray) |
 | [1196-filling-bookcase-shelves](https://github.com/itzayush21/leetcode-submission/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/itzayush21/leetcode-submission/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/itzayush21/leetcode-submission/tree/master/1511-count-number-of-teams) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/itzayush21/leetcode-submission/tree/master/0053-maximum-subarray) |
 | [0948-sort-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
