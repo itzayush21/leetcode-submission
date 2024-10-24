@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/itzayush21/leetcode-submission/tree/master/0221-maximal-square) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0740-delete-and-earn](https://github.com/itzayush21/leetcode-submission/tree/master/0740-delete-and-earn) |
 | [0948-sort-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0948-sort-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/itzayush21/leetcode-submission/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1196-filling-bookcase-shelves](https://github.com/itzayush21/leetcode-submission/tree/master/1196-filling-bookcase-shelves) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/itzayush21/leetcode-submission/tree/master/0053-maximum-subarray) |
 | [0221-maximal-square](https://github.com/itzayush21/leetcode-submission/tree/master/0221-maximal-square) |
 | [0338-counting-bits](https://github.com/itzayush21/leetcode-submission/tree/master/0338-counting-bits) |
+| [0740-delete-and-earn](https://github.com/itzayush21/leetcode-submission/tree/master/0740-delete-and-earn) |
 | [1086-divisor-game](https://github.com/itzayush21/leetcode-submission/tree/master/1086-divisor-game) |
 | [1196-filling-bookcase-shelves](https://github.com/itzayush21/leetcode-submission/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/itzayush21/leetcode-submission/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0726-number-of-atoms](https://github.com/itzayush21/leetcode-submission/tree/master/0726-number-of-atoms) |
+| [0740-delete-and-earn](https://github.com/itzayush21/leetcode-submission/tree/master/0740-delete-and-earn) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/itzayush21/leetcode-submission/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1207-delete-nodes-and-return-forest](https://github.com/itzayush21/leetcode-submission/tree/master/1207-delete-nodes-and-return-forest) |
 | [1272-invalid-transactions](https://github.com/itzayush21/leetcode-submission/tree/master/1272-invalid-transactions) |
