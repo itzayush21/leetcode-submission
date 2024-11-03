@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/itzayush21/leetcode-submission/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/itzayush21/leetcode-submission/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/itzayush21/leetcode-submission/tree/master/0221-maximal-square) |
+| [0322-coin-change](https://github.com/itzayush21/leetcode-submission/tree/master/0322-coin-change) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0740-delete-and-earn](https://github.com/itzayush21/leetcode-submission/tree/master/0740-delete-and-earn) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/itzayush21/leetcode-submission/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/itzayush21/leetcode-submission/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/itzayush21/leetcode-submission/tree/master/0221-maximal-square) |
+| [0322-coin-change](https://github.com/itzayush21/leetcode-submission/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/itzayush21/leetcode-submission/tree/master/0338-counting-bits) |
 | [0740-delete-and-earn](https://github.com/itzayush21/leetcode-submission/tree/master/0740-delete-and-earn) |
 | [1086-divisor-game](https://github.com/itzayush21/leetcode-submission/tree/master/1086-divisor-game) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/itzayush21/leetcode-submission/tree/master/0322-coin-change) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/itzayush21/leetcode-submission/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Indexed Tree
 |  |
