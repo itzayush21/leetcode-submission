@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/itzayush21/leetcode-submission/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/itzayush21/leetcode-submission/tree/master/0322-coin-change) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/itzayush21/leetcode-submission/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/itzayush21/leetcode-submission/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/itzayush21/leetcode-submission/tree/master/0740-delete-and-earn) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/itzayush21/leetcode-submission/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/itzayush21/leetcode-submission/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/itzayush21/leetcode-submission/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Sorting
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/itzayush21/leetcode-submission/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/itzayush21/leetcode-submission/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/itzayush21/leetcode-submission/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0726-number-of-atoms](https://github.com/itzayush21/leetcode-submission/tree/master/0726-number-of-atoms) |
 | [0740-delete-and-earn](https://github.com/itzayush21/leetcode-submission/tree/master/0740-delete-and-earn) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/itzayush21/leetcode-submission/tree/master/0066-plus-one) |
 | [0227-basic-calculator-ii](https://github.com/itzayush21/leetcode-submission/tree/master/0227-basic-calculator-ii) |
 | [0415-add-strings](https://github.com/itzayush21/leetcode-submission/tree/master/0415-add-strings) |
+| [0523-continuous-subarray-sum](https://github.com/itzayush21/leetcode-submission/tree/master/0523-continuous-subarray-sum) |
 | [1086-divisor-game](https://github.com/itzayush21/leetcode-submission/tree/master/1086-divisor-game) |
 | [1642-water-bottles](https://github.com/itzayush21/leetcode-submission/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/itzayush21/leetcode-submission/tree/master/1951-find-the-winner-of-the-circular-game) |
