@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/itzayush21/leetcode-submission/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/itzayush21/leetcode-submission/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/itzayush21/leetcode-submission/tree/master/0300-longest-increasing-subsequence) |
+| [0304-range-sum-query-2d-immutable](https://github.com/itzayush21/leetcode-submission/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/itzayush21/leetcode-submission/tree/master/0322-coin-change) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/itzayush21/leetcode-submission/tree/master/0523-continuous-subarray-sum) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/itzayush21/leetcode-submission/tree/master/0304-range-sum-query-2d-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/itzayush21/leetcode-submission/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/itzayush21/leetcode-submission/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/itzayush21/leetcode-submission/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/itzayush21/leetcode-submission/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/itzayush21/leetcode-submission/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/itzayush21/leetcode-submission/tree/master/0221-maximal-square) |
+| [0304-range-sum-query-2d-immutable](https://github.com/itzayush21/leetcode-submission/tree/master/0304-range-sum-query-2d-immutable) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/itzayush21/leetcode-submission/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/itzayush21/leetcode-submission/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/itzayush21/leetcode-submission/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -349,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/itzayush21/leetcode-submission/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Design
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/itzayush21/leetcode-submission/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
