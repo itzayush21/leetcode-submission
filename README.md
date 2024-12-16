@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/itzayush21/leetcode-submission/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/itzayush21/leetcode-submission/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/itzayush21/leetcode-submission/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/itzayush21/leetcode-submission/tree/master/0343-integer-break) |
 | [0647-palindromic-substrings](https://github.com/itzayush21/leetcode-submission/tree/master/0647-palindromic-substrings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/itzayush21/leetcode-submission/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/itzayush21/leetcode-submission/tree/master/0740-delete-and-earn) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/itzayush21/leetcode-submission/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/itzayush21/leetcode-submission/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/itzayush21/leetcode-submission/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/itzayush21/leetcode-submission/tree/master/0343-integer-break) |
 | [0415-add-strings](https://github.com/itzayush21/leetcode-submission/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/itzayush21/leetcode-submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/itzayush21/leetcode-submission/tree/master/0523-continuous-subarray-sum) |
