@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/itzayush21/leetcode-submission/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/itzayush21/leetcode-submission/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/itzayush21/leetcode-submission/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/itzayush21/leetcode-submission/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/itzayush21/leetcode-submission/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/itzayush21/leetcode-submission/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/itzayush21/leetcode-submission/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/itzayush21/leetcode-submission/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/itzayush21/leetcode-submission/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/itzayush21/leetcode-submission/tree/master/1511-count-number-of-teams) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/itzayush21/leetcode-submission/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/itzayush21/leetcode-submission/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Greedy
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/itzayush21/leetcode-submission/tree/master/0134-gas-station) |
 | [0680-valid-palindrome-ii](https://github.com/itzayush21/leetcode-submission/tree/master/0680-valid-palindrome-ii) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/itzayush21/leetcode-submission/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/itzayush21/leetcode-submission/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/itzayush21/leetcode-submission/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/itzayush21/leetcode-submission/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/itzayush21/leetcode-submission/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1272-invalid-transactions](https://github.com/itzayush21/leetcode-submission/tree/master/1272-invalid-transactions) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/itzayush21/leetcode-submission/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/itzayush21/leetcode-submission/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/itzayush21/leetcode-submission/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1720-crawler-log-folder](https://github.com/itzayush21/leetcode-submission/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/itzayush21/leetcode-submission/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/itzayush21/leetcode-submission/tree/master/1818-maximum-score-from-removing-substrings) |
