@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/itzayush21/leetcode-submission/tree/master/0628-maximum-product-of-three-numbers) |
 | [1086-divisor-game](https://github.com/itzayush21/leetcode-submission/tree/master/1086-divisor-game) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/itzayush21/leetcode-submission/tree/master/1446-angle-between-hands-of-a-clock) |
+| [1585-the-kth-factor-of-n](https://github.com/itzayush21/leetcode-submission/tree/master/1585-the-kth-factor-of-n) |
 | [1642-water-bottles](https://github.com/itzayush21/leetcode-submission/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/itzayush21/leetcode-submission/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Matrix
@@ -401,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/itzayush21/leetcode-submission/tree/master/0593-valid-square) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/itzayush21/leetcode-submission/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
