@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/itzayush21/leetcode-submission/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/itzayush21/leetcode-submission/tree/master/0134-gas-station) |
+| [0402-remove-k-digits](https://github.com/itzayush21/leetcode-submission/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/itzayush21/leetcode-submission/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/itzayush21/leetcode-submission/tree/master/0680-valid-palindrome-ii) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/itzayush21/leetcode-submission/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/itzayush21/leetcode-submission/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/itzayush21/leetcode-submission/tree/master/0151-reverse-words-in-a-string) |
 | [0227-basic-calculator-ii](https://github.com/itzayush21/leetcode-submission/tree/master/0227-basic-calculator-ii) |
+| [0402-remove-k-digits](https://github.com/itzayush21/leetcode-submission/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/itzayush21/leetcode-submission/tree/master/0415-add-strings) |
 | [0535-encode-and-decode-tinyurl](https://github.com/itzayush21/leetcode-submission/tree/master/0535-encode-and-decode-tinyurl) |
 | [0647-palindromic-substrings](https://github.com/itzayush21/leetcode-submission/tree/master/0647-palindromic-substrings) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/itzayush21/leetcode-submission/tree/master/0071-simplify-path) |
 | [0227-basic-calculator-ii](https://github.com/itzayush21/leetcode-submission/tree/master/0227-basic-calculator-ii) |
+| [0402-remove-k-digits](https://github.com/itzayush21/leetcode-submission/tree/master/0402-remove-k-digits) |
 | [0726-number-of-atoms](https://github.com/itzayush21/leetcode-submission/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/itzayush21/leetcode-submission/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/itzayush21/leetcode-submission/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -422,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/itzayush21/leetcode-submission/tree/master/1585-the-kth-factor-of-n) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/itzayush21/leetcode-submission/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
