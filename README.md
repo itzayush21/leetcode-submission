@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/itzayush21/leetcode-submission/tree/master/0628-maximum-product-of-three-numbers) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/itzayush21/leetcode-submission/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/itzayush21/leetcode-submission/tree/master/0740-delete-and-earn) |
+| [0817-design-hashmap](https://github.com/itzayush21/leetcode-submission/tree/master/0817-design-hashmap) |
 | [0948-sort-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0948-sort-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/itzayush21/leetcode-submission/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1087-longest-arithmetic-subsequence](https://github.com/itzayush21/leetcode-submission/tree/master/1087-longest-arithmetic-subsequence) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/itzayush21/leetcode-submission/tree/master/0621-task-scheduler) |
 | [0726-number-of-atoms](https://github.com/itzayush21/leetcode-submission/tree/master/0726-number-of-atoms) |
 | [0740-delete-and-earn](https://github.com/itzayush21/leetcode-submission/tree/master/0740-delete-and-earn) |
+| [0817-design-hashmap](https://github.com/itzayush21/leetcode-submission/tree/master/0817-design-hashmap) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/itzayush21/leetcode-submission/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1087-longest-arithmetic-subsequence](https://github.com/itzayush21/leetcode-submission/tree/master/1087-longest-arithmetic-subsequence) |
 | [1207-delete-nodes-and-return-forest](https://github.com/itzayush21/leetcode-submission/tree/master/1207-delete-nodes-and-return-forest) |
@@ -416,11 +418,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/itzayush21/leetcode-submission/tree/master/0535-encode-and-decode-tinyurl) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/itzayush21/leetcode-submission/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0817-design-hashmap](https://github.com/itzayush21/leetcode-submission/tree/master/0817-design-hashmap) |
 ## Design
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/itzayush21/leetcode-submission/tree/master/0304-range-sum-query-2d-immutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/itzayush21/leetcode-submission/tree/master/0535-encode-and-decode-tinyurl) |
+| [0817-design-hashmap](https://github.com/itzayush21/leetcode-submission/tree/master/0817-design-hashmap) |
 ## Geometry
 |  |
 | ------- |
@@ -437,5 +441,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/itzayush21/leetcode-submission/tree/master/0237-delete-node-in-a-linked-list) |
+| [0817-design-hashmap](https://github.com/itzayush21/leetcode-submission/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/itzayush21/leetcode-submission/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
