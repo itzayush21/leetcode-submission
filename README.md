@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/itzayush21/leetcode-submission/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/itzayush21/leetcode-submission/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/itzayush21/leetcode-submission/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
+| [1582-design-browser-history](https://github.com/itzayush21/leetcode-submission/tree/master/1582-design-browser-history) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/itzayush21/leetcode-submission/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/itzayush21/leetcode-submission/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/itzayush21/leetcode-submission/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/itzayush21/leetcode-submission/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/itzayush21/leetcode-submission/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/itzayush21/leetcode-submission/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1582-design-browser-history](https://github.com/itzayush21/leetcode-submission/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/itzayush21/leetcode-submission/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/itzayush21/leetcode-submission/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/itzayush21/leetcode-submission/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/itzayush21/leetcode-submission/tree/master/0304-range-sum-query-2d-immutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/itzayush21/leetcode-submission/tree/master/0535-encode-and-decode-tinyurl) |
 | [0817-design-hashmap](https://github.com/itzayush21/leetcode-submission/tree/master/0817-design-hashmap) |
+| [1582-design-browser-history](https://github.com/itzayush21/leetcode-submission/tree/master/1582-design-browser-history) |
 ## Geometry
 |  |
 | ------- |
@@ -456,4 +459,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/itzayush21/leetcode-submission/tree/master/0237-delete-node-in-a-linked-list) |
 | [0817-design-hashmap](https://github.com/itzayush21/leetcode-submission/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/itzayush21/leetcode-submission/tree/master/0908-middle-of-the-linked-list) |
+| [1582-design-browser-history](https://github.com/itzayush21/leetcode-submission/tree/master/1582-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/itzayush21/leetcode-submission/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/itzayush21/leetcode-submission/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
