@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/itzayush21/leetcode-submission/tree/master/0322-coin-change) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/itzayush21/leetcode-submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0496-next-greater-element-i](https://github.com/itzayush21/leetcode-submission/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/itzayush21/leetcode-submission/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0621-task-scheduler](https://github.com/itzayush21/leetcode-submission/tree/master/0621-task-scheduler) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/itzayush21/leetcode-submission/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/itzayush21/leetcode-submission/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/itzayush21/leetcode-submission/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/itzayush21/leetcode-submission/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/itzayush21/leetcode-submission/tree/master/0535-encode-and-decode-tinyurl) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/itzayush21/leetcode-submission/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/itzayush21/leetcode-submission/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/itzayush21/leetcode-submission/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/itzayush21/leetcode-submission/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/itzayush21/leetcode-submission/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/itzayush21/leetcode-submission/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/itzayush21/leetcode-submission/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/itzayush21/leetcode-submission/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/itzayush21/leetcode-submission/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
