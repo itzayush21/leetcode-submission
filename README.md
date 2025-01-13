@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1087-longest-arithmetic-subsequence](https://github.com/itzayush21/leetcode-submission/tree/master/1087-longest-arithmetic-subsequence) |
 | [1196-filling-bookcase-shelves](https://github.com/itzayush21/leetcode-submission/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/itzayush21/leetcode-submission/tree/master/1207-delete-nodes-and-return-forest) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/itzayush21/leetcode-submission/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1272-invalid-transactions](https://github.com/itzayush21/leetcode-submission/tree/master/1272-invalid-transactions) |
 | [1333-sort-the-jumbled-numbers](https://github.com/itzayush21/leetcode-submission/tree/master/1333-sort-the-jumbled-numbers) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/itzayush21/leetcode-submission/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/itzayush21/leetcode-submission/tree/master/1086-divisor-game) |
 | [1087-longest-arithmetic-subsequence](https://github.com/itzayush21/leetcode-submission/tree/master/1087-longest-arithmetic-subsequence) |
 | [1196-filling-bookcase-shelves](https://github.com/itzayush21/leetcode-submission/tree/master/1196-filling-bookcase-shelves) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/itzayush21/leetcode-submission/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/itzayush21/leetcode-submission/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/itzayush21/leetcode-submission/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/itzayush21/leetcode-submission/tree/master/1511-count-number-of-teams) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/itzayush21/leetcode-submission/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/itzayush21/leetcode-submission/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/itzayush21/leetcode-submission/tree/master/0680-valid-palindrome-ii) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/itzayush21/leetcode-submission/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/itzayush21/leetcode-submission/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/itzayush21/leetcode-submission/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/itzayush21/leetcode-submission/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/itzayush21/leetcode-submission/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/itzayush21/leetcode-submission/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/itzayush21/leetcode-submission/tree/master/0937-online-stock-span) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/itzayush21/leetcode-submission/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/itzayush21/leetcode-submission/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/itzayush21/leetcode-submission/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/itzayush21/leetcode-submission/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -475,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/itzayush21/leetcode-submission/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/itzayush21/leetcode-submission/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/itzayush21/leetcode-submission/tree/master/0937-online-stock-span) |
+| [1228-minimum-cost-tree-from-leaf-values](https://github.com/itzayush21/leetcode-submission/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 ## Linked List
 |  |
 | ------- |
