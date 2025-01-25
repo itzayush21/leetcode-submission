@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/itzayush21/leetcode-submission/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/itzayush21/leetcode-submission/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/itzayush21/leetcode-submission/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/itzayush21/leetcode-submission/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/itzayush21/leetcode-submission/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/itzayush21/leetcode-submission/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/itzayush21/leetcode-submission/tree/master/0160-intersection-of-two-linked-lists) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/itzayush21/leetcode-submission/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/itzayush21/leetcode-submission/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/itzayush21/leetcode-submission/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/itzayush21/leetcode-submission/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/itzayush21/leetcode-submission/tree/master/0151-reverse-words-in-a-string) |
 | [0227-basic-calculator-ii](https://github.com/itzayush21/leetcode-submission/tree/master/0227-basic-calculator-ii) |
 | [0402-remove-k-digits](https://github.com/itzayush21/leetcode-submission/tree/master/0402-remove-k-digits) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/itzayush21/leetcode-submission/tree/master/0127-word-ladder) |
 | [0322-coin-change](https://github.com/itzayush21/leetcode-submission/tree/master/0322-coin-change) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/itzayush21/leetcode-submission/tree/master/1757-minimum-jumps-to-reach-home) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/itzayush21/leetcode-submission/tree/master/2171-second-minimum-time-to-reach-destination) |
