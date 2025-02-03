@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/itzayush21/leetcode-submission/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/itzayush21/leetcode-submission/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/itzayush21/leetcode-submission/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/itzayush21/leetcode-submission/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/itzayush21/leetcode-submission/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/itzayush21/leetcode-submission/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/itzayush21/leetcode-submission/tree/master/0152-maximum-product-subarray) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/itzayush21/leetcode-submission/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/itzayush21/leetcode-submission/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/itzayush21/leetcode-submission/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/itzayush21/leetcode-submission/tree/master/0130-surrounded-regions) |
 | [0221-maximal-square](https://github.com/itzayush21/leetcode-submission/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/itzayush21/leetcode-submission/tree/master/0304-range-sum-query-2d-immutable) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/itzayush21/leetcode-submission/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/itzayush21/leetcode-submission/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/itzayush21/leetcode-submission/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/itzayush21/leetcode-submission/tree/master/0210-course-schedule-ii) |
 | [0341-flatten-nested-list-iterator](https://github.com/itzayush21/leetcode-submission/tree/master/0341-flatten-nested-list-iterator) |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/itzayush21/leetcode-submission/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/itzayush21/leetcode-submission/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/itzayush21/leetcode-submission/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/itzayush21/leetcode-submission/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/itzayush21/leetcode-submission/tree/master/0322-coin-change) |
@@ -536,5 +540,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/itzayush21/leetcode-submission/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/itzayush21/leetcode-submission/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
