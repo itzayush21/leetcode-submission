@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0337-house-robber-iii](https://github.com/itzayush21/leetcode-submission/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/itzayush21/leetcode-submission/tree/master/0341-flatten-nested-list-iterator) |
+| [0543-diameter-of-binary-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0543-diameter-of-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/itzayush21/leetcode-submission/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/itzayush21/leetcode-submission/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/itzayush21/leetcode-submission/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/itzayush21/leetcode-submission/tree/master/0337-house-robber-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0543-diameter-of-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/itzayush21/leetcode-submission/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/itzayush21/leetcode-submission/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/itzayush21/leetcode-submission/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/itzayush21/leetcode-submission/tree/master/0210-course-schedule-ii) |
 | [0337-house-robber-iii](https://github.com/itzayush21/leetcode-submission/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/itzayush21/leetcode-submission/tree/master/0341-flatten-nested-list-iterator) |
+| [0543-diameter-of-binary-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/itzayush21/leetcode-submission/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/itzayush21/leetcode-submission/tree/master/0813-all-paths-from-source-to-target) |
 | [1207-delete-nodes-and-return-forest](https://github.com/itzayush21/leetcode-submission/tree/master/1207-delete-nodes-and-return-forest) |
