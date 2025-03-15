@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/itzayush21/leetcode-submission/tree/master/0341-flatten-nested-list-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0572-subtree-of-another-tree) |
+| [0975-range-sum-of-bst](https://github.com/itzayush21/leetcode-submission/tree/master/0975-range-sum-of-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/itzayush21/leetcode-submission/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/itzayush21/leetcode-submission/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/itzayush21/leetcode-submission/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/itzayush21/leetcode-submission/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0572-subtree-of-another-tree) |
+| [0975-range-sum-of-bst](https://github.com/itzayush21/leetcode-submission/tree/master/0975-range-sum-of-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/itzayush21/leetcode-submission/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/itzayush21/leetcode-submission/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/itzayush21/leetcode-submission/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/itzayush21/leetcode-submission/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0572-subtree-of-another-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/itzayush21/leetcode-submission/tree/master/0813-all-paths-from-source-to-target) |
+| [0975-range-sum-of-bst](https://github.com/itzayush21/leetcode-submission/tree/master/0975-range-sum-of-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/itzayush21/leetcode-submission/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/itzayush21/leetcode-submission/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/itzayush21/leetcode-submission/tree/master/1866-restore-the-array-from-adjacent-pairs) |
@@ -558,4 +561,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/itzayush21/leetcode-submission/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/itzayush21/leetcode-submission/tree/master/0547-number-of-provinces) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/itzayush21/leetcode-submission/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
