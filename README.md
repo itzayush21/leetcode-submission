@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/itzayush21/leetcode-submission/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/itzayush21/leetcode-submission/tree/master/0341-flatten-nested-list-iterator) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0226-invert-binary-tree) |
 | [0337-house-robber-iii](https://github.com/itzayush21/leetcode-submission/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0543-diameter-of-binary-tree) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0101-symmetric-tree) |
 | [0130-surrounded-regions](https://github.com/itzayush21/leetcode-submission/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/itzayush21/leetcode-submission/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/itzayush21/leetcode-submission/tree/master/0210-course-schedule-ii) |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0101-symmetric-tree) |
 | [0127-word-ladder](https://github.com/itzayush21/leetcode-submission/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/itzayush21/leetcode-submission/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/itzayush21/leetcode-submission/tree/master/0133-clone-graph) |
