@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/itzayush21/leetcode-submission/tree/master/0130-surrounded-regions) |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/itzayush21/leetcode-submission/tree/master/0127-word-ladder) |
