@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/itzayush21/leetcode-submission/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/itzayush21/leetcode-submission/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/itzayush21/leetcode-submission/tree/master/0079-word-search) |
+| [0257-binary-tree-paths](https://github.com/itzayush21/leetcode-submission/tree/master/0257-binary-tree-paths) |
 | [0813-all-paths-from-source-to-target](https://github.com/itzayush21/leetcode-submission/tree/master/0813-all-paths-from-source-to-target) |
 ## Bit Manipulation
 |  |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/itzayush21/leetcode-submission/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/itzayush21/leetcode-submission/tree/master/0151-reverse-words-in-a-string) |
 | [0227-basic-calculator-ii](https://github.com/itzayush21/leetcode-submission/tree/master/0227-basic-calculator-ii) |
+| [0257-binary-tree-paths](https://github.com/itzayush21/leetcode-submission/tree/master/0257-binary-tree-paths) |
 | [0394-decode-string](https://github.com/itzayush21/leetcode-submission/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/itzayush21/leetcode-submission/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/itzayush21/leetcode-submission/tree/master/0415-add-strings) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/itzayush21/leetcode-submission/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/itzayush21/leetcode-submission/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/itzayush21/leetcode-submission/tree/master/0341-flatten-nested-list-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0543-diameter-of-binary-tree) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/itzayush21/leetcode-submission/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/itzayush21/leetcode-submission/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0572-subtree-of-another-tree) |
@@ -417,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/itzayush21/leetcode-submission/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/itzayush21/leetcode-submission/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/itzayush21/leetcode-submission/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/itzayush21/leetcode-submission/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/itzayush21/leetcode-submission/tree/master/0341-flatten-nested-list-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0543-diameter-of-binary-tree) |
