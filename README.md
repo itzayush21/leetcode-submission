@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/itzayush21/leetcode-submission/tree/master/0071-simplify-path) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/itzayush21/leetcode-submission/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/itzayush21/leetcode-submission/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/itzayush21/leetcode-submission/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/itzayush21/leetcode-submission/tree/master/0173-binary-search-tree-iterator) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/itzayush21/leetcode-submission/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/itzayush21/leetcode-submission/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/itzayush21/leetcode-submission/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/itzayush21/leetcode-submission/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0226-invert-binary-tree) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/itzayush21/leetcode-submission/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/itzayush21/leetcode-submission/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/itzayush21/leetcode-submission/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0173-binary-search-tree-iterator](https://github.com/itzayush21/leetcode-submission/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0226-invert-binary-tree) |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/itzayush21/leetcode-submission/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/itzayush21/leetcode-submission/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/itzayush21/leetcode-submission/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/itzayush21/leetcode-submission/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/itzayush21/leetcode-submission/tree/master/0133-clone-graph) |
@@ -577,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/itzayush21/leetcode-submission/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/itzayush21/leetcode-submission/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/itzayush21/leetcode-submission/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/itzayush21/leetcode-submission/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/itzayush21/leetcode-submission/tree/master/0142-linked-list-cycle-ii) |
