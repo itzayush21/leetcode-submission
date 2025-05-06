@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/itzayush21/leetcode-submission/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/itzayush21/leetcode-submission/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/itzayush21/leetcode-submission/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/itzayush21/leetcode-submission/tree/master/0399-evaluate-division) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/itzayush21/leetcode-submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/itzayush21/leetcode-submission/tree/master/0496-next-greater-element-i) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/itzayush21/leetcode-submission/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/itzayush21/leetcode-submission/tree/master/0257-binary-tree-paths) |
 | [0394-decode-string](https://github.com/itzayush21/leetcode-submission/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/itzayush21/leetcode-submission/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/itzayush21/leetcode-submission/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/itzayush21/leetcode-submission/tree/master/0415-add-strings) |
 | [0535-encode-and-decode-tinyurl](https://github.com/itzayush21/leetcode-submission/tree/master/0535-encode-and-decode-tinyurl) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/itzayush21/leetcode-submission/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/itzayush21/leetcode-submission/tree/master/0337-house-robber-iii) |
 | [0341-flatten-nested-list-iterator](https://github.com/itzayush21/leetcode-submission/tree/master/0341-flatten-nested-list-iterator) |
+| [0399-evaluate-division](https://github.com/itzayush21/leetcode-submission/tree/master/0399-evaluate-division) |
 | [0543-diameter-of-binary-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/itzayush21/leetcode-submission/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0572-subtree-of-another-tree) |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/itzayush21/leetcode-submission/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/itzayush21/leetcode-submission/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/itzayush21/leetcode-submission/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/itzayush21/leetcode-submission/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/itzayush21/leetcode-submission/tree/master/0684-redundant-connection) |
 | [0813-all-paths-from-source-to-target](https://github.com/itzayush21/leetcode-submission/tree/master/0813-all-paths-from-source-to-target) |
@@ -514,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/itzayush21/leetcode-submission/tree/master/0399-evaluate-division) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/itzayush21/leetcode-submission/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/itzayush21/leetcode-submission/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/itzayush21/leetcode-submission/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -533,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/itzayush21/leetcode-submission/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/itzayush21/leetcode-submission/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/itzayush21/leetcode-submission/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/itzayush21/leetcode-submission/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/itzayush21/leetcode-submission/tree/master/0617-merge-two-binary-trees) |
 | [0684-redundant-connection](https://github.com/itzayush21/leetcode-submission/tree/master/0684-redundant-connection) |
@@ -624,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/itzayush21/leetcode-submission/tree/master/0130-surrounded-regions) |
+| [0399-evaluate-division](https://github.com/itzayush21/leetcode-submission/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/itzayush21/leetcode-submission/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/itzayush21/leetcode-submission/tree/master/0684-redundant-connection) |
 ## Binary Search Tree
