@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/itzayush21/leetcode-submission/tree/master/0726-number-of-atoms) |
 | [0740-delete-and-earn](https://github.com/itzayush21/leetcode-submission/tree/master/0740-delete-and-earn) |
 | [0817-design-hashmap](https://github.com/itzayush21/leetcode-submission/tree/master/0817-design-hashmap) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/itzayush21/leetcode-submission/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/itzayush21/leetcode-submission/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/itzayush21/leetcode-submission/tree/master/1039-find-the-town-judge) |
 | [1087-longest-arithmetic-subsequence](https://github.com/itzayush21/leetcode-submission/tree/master/1087-longest-arithmetic-subsequence) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/itzayush21/leetcode-submission/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/itzayush21/leetcode-submission/tree/master/0922-possible-bipartition) |
 | [0975-range-sum-of-bst](https://github.com/itzayush21/leetcode-submission/tree/master/0975-range-sum-of-bst) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/itzayush21/leetcode-submission/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/itzayush21/leetcode-submission/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/itzayush21/leetcode-submission/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/itzayush21/leetcode-submission/tree/master/1866-restore-the-array-from-adjacent-pairs) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/itzayush21/leetcode-submission/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/itzayush21/leetcode-submission/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/itzayush21/leetcode-submission/tree/master/0922-possible-bipartition) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/itzayush21/leetcode-submission/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/itzayush21/leetcode-submission/tree/master/1039-find-the-town-judge) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/itzayush21/leetcode-submission/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/itzayush21/leetcode-submission/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -656,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/itzayush21/leetcode-submission/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/itzayush21/leetcode-submission/tree/master/0721-accounts-merge) |
 | [0922-possible-bipartition](https://github.com/itzayush21/leetcode-submission/tree/master/0922-possible-bipartition) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/itzayush21/leetcode-submission/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Binary Search Tree
 |  |
 | ------- |
