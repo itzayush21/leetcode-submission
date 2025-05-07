@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/itzayush21/leetcode-submission/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/itzayush21/leetcode-submission/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/itzayush21/leetcode-submission/tree/master/0721-accounts-merge) |
+| [0744-network-delay-time](https://github.com/itzayush21/leetcode-submission/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/itzayush21/leetcode-submission/tree/master/0813-all-paths-from-source-to-target) |
 | [0975-range-sum-of-bst](https://github.com/itzayush21/leetcode-submission/tree/master/0975-range-sum-of-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/itzayush21/leetcode-submission/tree/master/1207-delete-nodes-and-return-forest) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/itzayush21/leetcode-submission/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/itzayush21/leetcode-submission/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/itzayush21/leetcode-submission/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/itzayush21/leetcode-submission/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/itzayush21/leetcode-submission/tree/master/0813-all-paths-from-source-to-target) |
 | [1039-find-the-town-judge](https://github.com/itzayush21/leetcode-submission/tree/master/1039-find-the-town-judge) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/itzayush21/leetcode-submission/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/itzayush21/leetcode-submission/tree/master/0621-task-scheduler) |
+| [0744-network-delay-time](https://github.com/itzayush21/leetcode-submission/tree/master/0744-network-delay-time) |
 | [0948-sort-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0948-sort-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/itzayush21/leetcode-submission/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Merge Sort
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/itzayush21/leetcode-submission/tree/master/0399-evaluate-division) |
+| [0744-network-delay-time](https://github.com/itzayush21/leetcode-submission/tree/master/0744-network-delay-time) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/itzayush21/leetcode-submission/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/itzayush21/leetcode-submission/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/itzayush21/leetcode-submission/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -549,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/itzayush21/leetcode-submission/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/itzayush21/leetcode-submission/tree/master/0690-employee-importance) |
 | [0721-accounts-merge](https://github.com/itzayush21/leetcode-submission/tree/master/0721-accounts-merge) |
+| [0744-network-delay-time](https://github.com/itzayush21/leetcode-submission/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/itzayush21/leetcode-submission/tree/master/0813-all-paths-from-source-to-target) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/itzayush21/leetcode-submission/tree/master/1757-minimum-jumps-to-reach-home) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/itzayush21/leetcode-submission/tree/master/2171-second-minimum-time-to-reach-destination) |
