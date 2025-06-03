@@ -479,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/itzayush21/leetcode-submission/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/itzayush21/leetcode-submission/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/itzayush21/leetcode-submission/tree/master/1207-delete-nodes-and-return-forest) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/itzayush21/leetcode-submission/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/itzayush21/leetcode-submission/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/itzayush21/leetcode-submission/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/itzayush21/leetcode-submission/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/itzayush21/leetcode-submission/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/itzayush21/leetcode-submission/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/itzayush21/leetcode-submission/tree/master/1039-find-the-town-judge) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/itzayush21/leetcode-submission/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/itzayush21/leetcode-submission/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/itzayush21/leetcode-submission/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/itzayush21/leetcode-submission/tree/master/2472-build-a-matrix-with-conditions) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/itzayush21/leetcode-submission/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/itzayush21/leetcode-submission/tree/master/0922-possible-bipartition) |
 | [0999-regions-cut-by-slashes](https://github.com/itzayush21/leetcode-submission/tree/master/0999-regions-cut-by-slashes) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/itzayush21/leetcode-submission/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/itzayush21/leetcode-submission/tree/master/1757-minimum-jumps-to-reach-home) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/itzayush21/leetcode-submission/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Indexed Tree
@@ -666,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/itzayush21/leetcode-submission/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/itzayush21/leetcode-submission/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/itzayush21/leetcode-submission/tree/master/0999-regions-cut-by-slashes) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/itzayush21/leetcode-submission/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Binary Search Tree
 |  |
 | ------- |
