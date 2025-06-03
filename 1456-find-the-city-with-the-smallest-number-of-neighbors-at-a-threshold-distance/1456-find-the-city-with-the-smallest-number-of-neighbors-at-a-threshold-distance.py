@@ -1,25 +1,33 @@
-class Solution:
-    def findTheCity(self, n: int, edges: List[List[int]], distanceThreshold: int) -> int:
-        def dijkstra(u: int) -> int:
-            dist = [inf] * n
-            dist[u] = 0
-            vis = [False] * n
-            for i in range(n):
-                k = -1
-                for j in range(n):
-                    if not vis[j] and (k == -1 or dist[k] > dist[j]):
-                        k = j
-                vis[k] = True
-                for j in range(n):
-                    if dist[k] + g[k][j] < dist[j]:
-                        dist[j] = dist[k] + g[k][j]
-            return sum(d <= distanceThreshold for d in dist)
+class Solution(object):
+    def findTheCity(self, n, edges, distanceThreshold):
+        """
+        :type n: int
+        :type edges: List[List[int]]
+        :type distanceThreshold: int
+        :rtype: int
+        """
+        adj=defaultdict(list)
+        for v1,v2,dist in edges:
+            adj[v1].append((v2,dist))
+            adj[v2].append((v1,dist))
 
-        g = [[inf] * n for _ in range(n)]
-        for f, t, w in edges:
-            g[f][t] = g[t][f] = w
-        ans, cnt = n, inf
-        for i in range(n - 1, -1, -1):
-            if (t := dijkstra(i)) < cnt:
-                cnt, ans = t, i
-        return ans
+        def dijkstra(src):
+            heap=[(0,src)]
+            visit=set()
+            while heap:
+                dist,node=heapq.heappop(heap)
+                if node in visit:
+                    continue
+                visit.add(node)
+                for nei,dist2 in adj[node]:
+                    nei_dist=dist+dist2
+                    if nei_dist<=distanceThreshold:
+                        heapq.heappush(heap,(nei_dist,nei))
+            return len(visit)-1
+
+        res,min_count=-1,n
+        for src in range(n):
+            count=dijkstra(src)
+            if count<=min_count:
+                res,min_count=src,count
+        return res        
