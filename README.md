@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/itzayush21/leetcode-submission/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/itzayush21/leetcode-submission/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/itzayush21/leetcode-submission/tree/master/0680-valid-palindrome-ii) |
+| [0778-reorganize-string](https://github.com/itzayush21/leetcode-submission/tree/master/0778-reorganize-string) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/itzayush21/leetcode-submission/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/itzayush21/leetcode-submission/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/itzayush21/leetcode-submission/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/itzayush21/leetcode-submission/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/itzayush21/leetcode-submission/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/itzayush21/leetcode-submission/tree/master/0726-number-of-atoms) |
+| [0778-reorganize-string](https://github.com/itzayush21/leetcode-submission/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/itzayush21/leetcode-submission/tree/master/1014-k-closest-points-to-origin) |
 | [1272-invalid-transactions](https://github.com/itzayush21/leetcode-submission/tree/master/1272-invalid-transactions) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/itzayush21/leetcode-submission/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/itzayush21/leetcode-submission/tree/master/0726-number-of-atoms) |
 | [0740-delete-and-earn](https://github.com/itzayush21/leetcode-submission/tree/master/0740-delete-and-earn) |
+| [0778-reorganize-string](https://github.com/itzayush21/leetcode-submission/tree/master/0778-reorganize-string) |
 | [0817-design-hashmap](https://github.com/itzayush21/leetcode-submission/tree/master/0817-design-hashmap) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/itzayush21/leetcode-submission/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/itzayush21/leetcode-submission/tree/master/0999-regions-cut-by-slashes) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/itzayush21/leetcode-submission/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/itzayush21/leetcode-submission/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/itzayush21/leetcode-submission/tree/master/0726-number-of-atoms) |
+| [0778-reorganize-string](https://github.com/itzayush21/leetcode-submission/tree/master/0778-reorganize-string) |
 | [0874-backspace-string-compare](https://github.com/itzayush21/leetcode-submission/tree/master/0874-backspace-string-compare) |
 | [1272-invalid-transactions](https://github.com/itzayush21/leetcode-submission/tree/master/1272-invalid-transactions) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/itzayush21/leetcode-submission/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -530,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/itzayush21/leetcode-submission/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/itzayush21/leetcode-submission/tree/master/0744-network-delay-time) |
+| [0778-reorganize-string](https://github.com/itzayush21/leetcode-submission/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/itzayush21/leetcode-submission/tree/master/1014-k-closest-points-to-origin) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/itzayush21/leetcode-submission/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -549,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/itzayush21/leetcode-submission/tree/master/0621-task-scheduler) |
+| [0778-reorganize-string](https://github.com/itzayush21/leetcode-submission/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0948-sort-an-array) |
 ## Shortest Path
 |  |
