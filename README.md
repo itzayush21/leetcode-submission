@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/itzayush21/leetcode-submission/tree/master/0817-design-hashmap) |
 | [0948-sort-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/itzayush21/leetcode-submission/tree/master/0999-regions-cut-by-slashes) |
+| [1014-k-closest-points-to-origin](https://github.com/itzayush21/leetcode-submission/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/itzayush21/leetcode-submission/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/itzayush21/leetcode-submission/tree/master/1039-find-the-town-judge) |
 | [1087-longest-arithmetic-subsequence](https://github.com/itzayush21/leetcode-submission/tree/master/1087-longest-arithmetic-subsequence) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/itzayush21/leetcode-submission/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/itzayush21/leetcode-submission/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/itzayush21/leetcode-submission/tree/master/1014-k-closest-points-to-origin) |
 | [1272-invalid-transactions](https://github.com/itzayush21/leetcode-submission/tree/master/1272-invalid-transactions) |
 | [1333-sort-the-jumbled-numbers](https://github.com/itzayush21/leetcode-submission/tree/master/1333-sort-the-jumbled-numbers) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/itzayush21/leetcode-submission/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/itzayush21/leetcode-submission/tree/master/0523-continuous-subarray-sum) |
 | [0593-valid-square](https://github.com/itzayush21/leetcode-submission/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itzayush21/leetcode-submission/tree/master/0628-maximum-product-of-three-numbers) |
+| [1014-k-closest-points-to-origin](https://github.com/itzayush21/leetcode-submission/tree/master/1014-k-closest-points-to-origin) |
 | [1086-divisor-game](https://github.com/itzayush21/leetcode-submission/tree/master/1086-divisor-game) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/itzayush21/leetcode-submission/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1585-the-kth-factor-of-n](https://github.com/itzayush21/leetcode-submission/tree/master/1585-the-kth-factor-of-n) |
@@ -517,12 +520,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/itzayush21/leetcode-submission/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/itzayush21/leetcode-submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0948-sort-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/itzayush21/leetcode-submission/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/itzayush21/leetcode-submission/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/itzayush21/leetcode-submission/tree/master/0744-network-delay-time) |
 | [0948-sort-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/itzayush21/leetcode-submission/tree/master/1014-k-closest-points-to-origin) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/itzayush21/leetcode-submission/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Merge Sort
 |  |
@@ -620,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/itzayush21/leetcode-submission/tree/master/0593-valid-square) |
+| [1014-k-closest-points-to-origin](https://github.com/itzayush21/leetcode-submission/tree/master/1014-k-closest-points-to-origin) |
 ## Number Theory
 |  |
 | ------- |
@@ -680,4 +686,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/itzayush21/leetcode-submission/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/itzayush21/leetcode-submission/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0975-range-sum-of-bst](https://github.com/itzayush21/leetcode-submission/tree/master/0975-range-sum-of-bst) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/itzayush21/leetcode-submission/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
