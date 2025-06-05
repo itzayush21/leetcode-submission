@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/itzayush21/leetcode-submission/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/itzayush21/leetcode-submission/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1762-furthest-building-you-can-reach](https://github.com/itzayush21/leetcode-submission/tree/master/1762-furthest-building-you-can-reach) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/itzayush21/leetcode-submission/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1803-average-waiting-time](https://github.com/itzayush21/leetcode-submission/tree/master/1803-average-waiting-time) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/itzayush21/leetcode-submission/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/itzayush21/leetcode-submission/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/itzayush21/leetcode-submission/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1762-furthest-building-you-can-reach](https://github.com/itzayush21/leetcode-submission/tree/master/1762-furthest-building-you-can-reach) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/itzayush21/leetcode-submission/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/itzayush21/leetcode-submission/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/itzayush21/leetcode-submission/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/itzayush21/leetcode-submission/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Sliding Window
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/itzayush21/leetcode-submission/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/itzayush21/leetcode-submission/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/itzayush21/leetcode-submission/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/itzayush21/leetcode-submission/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/itzayush21/leetcode-submission/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/itzayush21/leetcode-submission/tree/master/2846-robot-collisions) |
 ## String Matching
@@ -662,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/itzayush21/leetcode-submission/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/itzayush21/leetcode-submission/tree/master/0937-online-stock-span) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/itzayush21/leetcode-submission/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/itzayush21/leetcode-submission/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Linked List
 |  |
 | ------- |
