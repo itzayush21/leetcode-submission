@@ -4,19 +4,21 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[List[int]]
         """
-        all_subset=[]
-        curr_subset=[]
+        res=[]
+        subset=[]
+
         def dfs(i):
-            if i==len(nums):
-                all_subset.append(curr_subset[:])
+            if i>=len(nums):
+                temp=subset[:]
+                res.append(temp)
                 return
-            dfs(i+1)
-            curr_subset.append(nums[i])
+            
+            subset.append(nums[i])
             dfs(i+1)
 
-            curr_subset.pop()
+            subset.pop()
+            dfs(i+1)
+
         dfs(0)
-        return all_subset
+        return res
 
-
-        
