@@ -5,21 +5,22 @@ class Solution(object):
         :type target: int
         :rtype: List[List[int]]
         """
-        ans = []
-        ds = []
+        res=[]
 
-
-        def findCombination(ind, target):
-            if ind == len(candidates):
-                if target == 0:
-                    ans.append(ds[:])
+        def dfs(i,cur,total):
+            if total==target:
+                temp=cur[::]
+                res.append(temp)
                 return
-            if candidates[ind] <= target:
-                ds.append(candidates[ind])
-                findCombination(ind, target - candidates[ind])
-                ds.pop()
-            findCombination(ind + 1, target)
-        findCombination(0, target)
-        return ans
 
+            if i>=len(candidates) or total>target:
+                return
+
+            cur.append(candidates[i])
+            dfs(i,cur,total+candidates[i])
+            cur.pop()
+            dfs(i+1,cur,total)
+
+        dfs(0,[],0)
+        return res
         
