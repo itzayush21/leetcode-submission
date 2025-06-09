@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/itzayush21/leetcode-submission/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itzayush21/leetcode-submission/tree/master/0628-maximum-product-of-three-numbers) |
 | [0690-employee-importance](https://github.com/itzayush21/leetcode-submission/tree/master/0690-employee-importance) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/itzayush21/leetcode-submission/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/itzayush21/leetcode-submission/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0721-accounts-merge](https://github.com/itzayush21/leetcode-submission/tree/master/0721-accounts-merge) |
 | [0739-daily-temperatures](https://github.com/itzayush21/leetcode-submission/tree/master/0739-daily-temperatures) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/itzayush21/leetcode-submission/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/itzayush21/leetcode-submission/tree/master/0343-integer-break) |
 | [0647-palindromic-substrings](https://github.com/itzayush21/leetcode-submission/tree/master/0647-palindromic-substrings) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/itzayush21/leetcode-submission/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/itzayush21/leetcode-submission/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/itzayush21/leetcode-submission/tree/master/0740-delete-and-earn) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/itzayush21/leetcode-submission/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/itzayush21/leetcode-submission/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/itzayush21/leetcode-submission/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/itzayush21/leetcode-submission/tree/master/0257-binary-tree-paths) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/itzayush21/leetcode-submission/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0813-all-paths-from-source-to-target](https://github.com/itzayush21/leetcode-submission/tree/master/0813-all-paths-from-source-to-target) |
 ## Bit Manipulation
 |  |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/itzayush21/leetcode-submission/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/itzayush21/leetcode-submission/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/itzayush21/leetcode-submission/tree/master/0342-power-of-four) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/itzayush21/leetcode-submission/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## String
 |  |
 | ------- |
@@ -741,4 +745,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/itzayush21/leetcode-submission/tree/master/1014-k-closest-points-to-origin) |
+## Memoization
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/itzayush21/leetcode-submission/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/itzayush21/leetcode-submission/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
