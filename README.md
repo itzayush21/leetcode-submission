@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/itzayush21/leetcode-submission/tree/master/1582-design-browser-history) |
 | [1603-running-sum-of-1d-array](https://github.com/itzayush21/leetcode-submission/tree/master/1603-running-sum-of-1d-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/itzayush21/leetcode-submission/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1635-number-of-good-pairs](https://github.com/itzayush21/leetcode-submission/tree/master/1635-number-of-good-pairs) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/itzayush21/leetcode-submission/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/itzayush21/leetcode-submission/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/itzayush21/leetcode-submission/tree/master/1720-crawler-log-folder) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/itzayush21/leetcode-submission/tree/master/1207-delete-nodes-and-return-forest) |
 | [1272-invalid-transactions](https://github.com/itzayush21/leetcode-submission/tree/master/1272-invalid-transactions) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/itzayush21/leetcode-submission/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1635-number-of-good-pairs](https://github.com/itzayush21/leetcode-submission/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/itzayush21/leetcode-submission/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/itzayush21/leetcode-submission/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/itzayush21/leetcode-submission/tree/master/1866-restore-the-array-from-adjacent-pairs) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/itzayush21/leetcode-submission/tree/master/1086-divisor-game) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/itzayush21/leetcode-submission/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1585-the-kth-factor-of-n](https://github.com/itzayush21/leetcode-submission/tree/master/1585-the-kth-factor-of-n) |
+| [1635-number-of-good-pairs](https://github.com/itzayush21/leetcode-submission/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/itzayush21/leetcode-submission/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/itzayush21/leetcode-submission/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Matrix
@@ -607,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/itzayush21/leetcode-submission/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/itzayush21/leetcode-submission/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0948-sort-an-array) |
+| [1635-number-of-good-pairs](https://github.com/itzayush21/leetcode-submission/tree/master/1635-number-of-good-pairs) |
 ## Shortest Path
 |  |
 | ------- |
