@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/itzayush21/leetcode-submission/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/itzayush21/leetcode-submission/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1762-furthest-building-you-can-reach](https://github.com/itzayush21/leetcode-submission/tree/master/1762-furthest-building-you-can-reach) |
+| [1791-richest-customer-wealth](https://github.com/itzayush21/leetcode-submission/tree/master/1791-richest-customer-wealth) |
 | [1792-find-the-most-competitive-subsequence](https://github.com/itzayush21/leetcode-submission/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1803-average-waiting-time](https://github.com/itzayush21/leetcode-submission/tree/master/1803-average-waiting-time) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/itzayush21/leetcode-submission/tree/master/1866-restore-the-array-from-adjacent-pairs) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/itzayush21/leetcode-submission/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/itzayush21/leetcode-submission/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/itzayush21/leetcode-submission/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1791-richest-customer-wealth](https://github.com/itzayush21/leetcode-submission/tree/master/1791-richest-customer-wealth) |
 | [2472-build-a-matrix-with-conditions](https://github.com/itzayush21/leetcode-submission/tree/master/2472-build-a-matrix-with-conditions) |
 ## Simulation
 |  |
