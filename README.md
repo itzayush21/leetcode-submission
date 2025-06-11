@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-sort-the-jumbled-numbers](https://github.com/itzayush21/leetcode-submission/tree/master/1333-sort-the-jumbled-numbers) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/itzayush21/leetcode-submission/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/itzayush21/leetcode-submission/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/itzayush21/leetcode-submission/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/itzayush21/leetcode-submission/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/itzayush21/leetcode-submission/tree/master/1511-count-number-of-teams) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/itzayush21/leetcode-submission/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/itzayush21/leetcode-submission/tree/master/1014-k-closest-points-to-origin) |
 | [1272-invalid-transactions](https://github.com/itzayush21/leetcode-submission/tree/master/1272-invalid-transactions) |
 | [1333-sort-the-jumbled-numbers](https://github.com/itzayush21/leetcode-submission/tree/master/1333-sort-the-jumbled-numbers) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/itzayush21/leetcode-submission/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/itzayush21/leetcode-submission/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/itzayush21/leetcode-submission/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/itzayush21/leetcode-submission/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1087-longest-arithmetic-subsequence](https://github.com/itzayush21/leetcode-submission/tree/master/1087-longest-arithmetic-subsequence) |
 | [1207-delete-nodes-and-return-forest](https://github.com/itzayush21/leetcode-submission/tree/master/1207-delete-nodes-and-return-forest) |
 | [1272-invalid-transactions](https://github.com/itzayush21/leetcode-submission/tree/master/1272-invalid-transactions) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/itzayush21/leetcode-submission/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/itzayush21/leetcode-submission/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/itzayush21/leetcode-submission/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/itzayush21/leetcode-submission/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/itzayush21/leetcode-submission/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/itzayush21/leetcode-submission/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0948-sort-an-array) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/itzayush21/leetcode-submission/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/itzayush21/leetcode-submission/tree/master/1635-number-of-good-pairs) |
 ## Shortest Path
 |  |
