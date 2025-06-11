@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/itzayush21/leetcode-submission/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/itzayush21/leetcode-submission/tree/master/0740-delete-and-earn) |
 | [0817-design-hashmap](https://github.com/itzayush21/leetcode-submission/tree/master/0817-design-hashmap) |
+| [0861-flipping-an-image](https://github.com/itzayush21/leetcode-submission/tree/master/0861-flipping-an-image) |
 | [0948-sort-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/itzayush21/leetcode-submission/tree/master/0999-regions-cut-by-slashes) |
 | [1014-k-closest-points-to-origin](https://github.com/itzayush21/leetcode-submission/tree/master/1014-k-closest-points-to-origin) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0647-palindromic-substrings](https://github.com/itzayush21/leetcode-submission/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/itzayush21/leetcode-submission/tree/master/0680-valid-palindrome-ii) |
+| [0861-flipping-an-image](https://github.com/itzayush21/leetcode-submission/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/itzayush21/leetcode-submission/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/itzayush21/leetcode-submission/tree/master/0908-middle-of-the-linked-list) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/itzayush21/leetcode-submission/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/itzayush21/leetcode-submission/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/itzayush21/leetcode-submission/tree/master/0342-power-of-four) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/itzayush21/leetcode-submission/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0861-flipping-an-image](https://github.com/itzayush21/leetcode-submission/tree/master/0861-flipping-an-image) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/itzayush21/leetcode-submission/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## String
 |  |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/itzayush21/leetcode-submission/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/itzayush21/leetcode-submission/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/itzayush21/leetcode-submission/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0861-flipping-an-image](https://github.com/itzayush21/leetcode-submission/tree/master/0861-flipping-an-image) |
 | [0999-regions-cut-by-slashes](https://github.com/itzayush21/leetcode-submission/tree/master/0999-regions-cut-by-slashes) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/itzayush21/leetcode-submission/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/itzayush21/leetcode-submission/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -396,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/itzayush21/leetcode-submission/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/itzayush21/leetcode-submission/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/itzayush21/leetcode-submission/tree/master/0415-add-strings) |
+| [0861-flipping-an-image](https://github.com/itzayush21/leetcode-submission/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/itzayush21/leetcode-submission/tree/master/0874-backspace-string-compare) |
 | [1642-water-bottles](https://github.com/itzayush21/leetcode-submission/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/itzayush21/leetcode-submission/tree/master/1803-average-waiting-time) |
