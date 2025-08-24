@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/itzayush21/leetcode-submission/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/itzayush21/leetcode-submission/tree/master/0740-delete-and-earn) |
 | [0817-design-hashmap](https://github.com/itzayush21/leetcode-submission/tree/master/0817-design-hashmap) |
+| [0860-design-circular-queue](https://github.com/itzayush21/leetcode-submission/tree/master/0860-design-circular-queue) |
 | [0861-flipping-an-image](https://github.com/itzayush21/leetcode-submission/tree/master/0861-flipping-an-image) |
 | [0948-sort-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/itzayush21/leetcode-submission/tree/master/0999-regions-cut-by-slashes) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/itzayush21/leetcode-submission/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/itzayush21/leetcode-submission/tree/master/0341-flatten-nested-list-iterator) |
+| [0860-design-circular-queue](https://github.com/itzayush21/leetcode-submission/tree/master/0860-design-circular-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/itzayush21/leetcode-submission/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
@@ -723,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/itzayush21/leetcode-submission/tree/master/0341-flatten-nested-list-iterator) |
 | [0535-encode-and-decode-tinyurl](https://github.com/itzayush21/leetcode-submission/tree/master/0535-encode-and-decode-tinyurl) |
 | [0817-design-hashmap](https://github.com/itzayush21/leetcode-submission/tree/master/0817-design-hashmap) |
+| [0860-design-circular-queue](https://github.com/itzayush21/leetcode-submission/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/itzayush21/leetcode-submission/tree/master/0937-online-stock-span) |
 | [1582-design-browser-history](https://github.com/itzayush21/leetcode-submission/tree/master/1582-design-browser-history) |
 ## Geometry
@@ -757,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/itzayush21/leetcode-submission/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/itzayush21/leetcode-submission/tree/master/0237-delete-node-in-a-linked-list) |
 | [0817-design-hashmap](https://github.com/itzayush21/leetcode-submission/tree/master/0817-design-hashmap) |
+| [0860-design-circular-queue](https://github.com/itzayush21/leetcode-submission/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/itzayush21/leetcode-submission/tree/master/0908-middle-of-the-linked-list) |
 | [1582-design-browser-history](https://github.com/itzayush21/leetcode-submission/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
