@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/itzayush21/leetcode-submission/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/itzayush21/leetcode-submission/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/itzayush21/leetcode-submission/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/itzayush21/leetcode-submission/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/itzayush21/leetcode-submission/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/itzayush21/leetcode-submission/tree/master/0216-combination-sum-iii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/itzayush21/leetcode-submission/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/itzayush21/leetcode-submission/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/itzayush21/leetcode-submission/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/itzayush21/leetcode-submission/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/itzayush21/leetcode-submission/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/itzayush21/leetcode-submission/tree/master/0234-palindrome-linked-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/itzayush21/leetcode-submission/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/itzayush21/leetcode-submission/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/itzayush21/leetcode-submission/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/itzayush21/leetcode-submission/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/itzayush21/leetcode-submission/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/itzayush21/leetcode-submission/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/itzayush21/leetcode-submission/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/itzayush21/leetcode-submission/tree/master/0231-power-of-two) |
