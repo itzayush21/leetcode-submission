@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/itzayush21/leetcode-submission/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/itzayush21/leetcode-submission/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/itzayush21/leetcode-submission/tree/master/0595-big-countries) |
+| [1075-project-employees-i](https://github.com/itzayush21/leetcode-submission/tree/master/1075-project-employees-i) |
 | [1251-average-selling-price](https://github.com/itzayush21/leetcode-submission/tree/master/1251-average-selling-price) |
 | [1258-article-views-i](https://github.com/itzayush21/leetcode-submission/tree/master/1258-article-views-i) |
 | [1661-average-time-of-process-per-machine](https://github.com/itzayush21/leetcode-submission/tree/master/1661-average-time-of-process-per-machine) |
