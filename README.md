@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/itzayush21/leetcode-submission/tree/master/1251-average-selling-price) |
 | [1258-article-views-i](https://github.com/itzayush21/leetcode-submission/tree/master/1258-article-views-i) |
 | [1341-movie-rating](https://github.com/itzayush21/leetcode-submission/tree/master/1341-movie-rating) |
+| [1484-group-sold-products-by-the-date](https://github.com/itzayush21/leetcode-submission/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/itzayush21/leetcode-submission/tree/master/1527-patients-with-a-condition) |
 | [1661-average-time-of-process-per-machine](https://github.com/itzayush21/leetcode-submission/tree/master/1661-average-time-of-process-per-machine) |
 | [1729-find-followers-count](https://github.com/itzayush21/leetcode-submission/tree/master/1729-find-followers-count) |
