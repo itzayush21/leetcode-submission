@@ -6,21 +6,25 @@ class Solution(object):
         :rtype: List[List[int]]
         """
         res=[]
+        def dfs(i,curr):
+            if sum(curr)>target:
+                return
+            if sum(curr)==target:
+                if curr not in res:
+                    res.append(curr[:])
 
-        def dfs(i,cur,total):
-            if total==target:
-                temp=cur[::]
-                res.append(temp)
+            if i == len(candidates):
                 return
 
-            if i>=len(candidates) or total>target:
-                return
+            curr.append(candidates[i])
+            dfs(i, curr)
+            curr.pop()
 
-            cur.append(candidates[i])
-            dfs(i,cur,total+candidates[i])
-            cur.pop()
-            dfs(i+1,cur,total)
+            dfs(i+1,curr)
 
-        dfs(0,[],0)
+
+        dfs(0,[])
+
         return res
+            
         
