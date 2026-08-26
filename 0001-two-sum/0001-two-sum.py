@@ -1,8 +1,19 @@
-class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-        e={}
+class Solution(object):
+    def twoSum(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: List[int]
+        """
+        ele={}
+        res=[]
+
         for i,n in enumerate(nums):
-            if target-nums[i] in e:
-                return(e[target-nums[i]],i)
-            e[n]=i
-        return
+            if target-nums[i] in ele:
+                return [ele[target-nums[i]],i]
+
+            ele[nums[i]]=i
+
+        return res
+        
+        
