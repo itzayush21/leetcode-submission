@@ -844,4 +844,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/itzayush21/leetcode-submission/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/itzayush21/leetcode-submission/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/itzayush21/leetcode-submission/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
