@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/itzayush21/leetcode-submission/tree/master/0726-number-of-atoms) |
 | [0778-reorganize-string](https://github.com/itzayush21/leetcode-submission/tree/master/0778-reorganize-string) |
 | [0874-backspace-string-compare](https://github.com/itzayush21/leetcode-submission/tree/master/0874-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/itzayush21/leetcode-submission/tree/master/1021-remove-outermost-parentheses) |
 | [1272-invalid-transactions](https://github.com/itzayush21/leetcode-submission/tree/master/1272-invalid-transactions) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/itzayush21/leetcode-submission/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/itzayush21/leetcode-submission/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/itzayush21/leetcode-submission/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/itzayush21/leetcode-submission/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/itzayush21/leetcode-submission/tree/master/0937-online-stock-span) |
+| [1021-remove-outermost-parentheses](https://github.com/itzayush21/leetcode-submission/tree/master/1021-remove-outermost-parentheses) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/itzayush21/leetcode-submission/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/itzayush21/leetcode-submission/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/itzayush21/leetcode-submission/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -852,4 +854,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/itzayush21/leetcode-submission/tree/master/0322-coin-change) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/itzayush21/leetcode-submission/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
